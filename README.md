@@ -4,12 +4,12 @@ The app is made for the article : TODO add link
 
 Clone the repo
 ```
-git clone 
+git clone https://github.com/IvanAbadzhiev/React-simple-testing-tutorial.git
 ```
 
 Go to the folder with the project
 ```
-cd weather-app
+cd React-simple-testing-tutorial
 ```
 
 Install the dependencies of the project
