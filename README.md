@@ -7,10 +7,14 @@ Clone the repo
 git clone https://github.com/IvanAbadzhiev/React-simple-testing-tutorial.git
 ```
 
+---
+
 Go to the folder with the project
 ```
 cd React-simple-testing-tutorial
 ```
+
+---
 
 Install the dependencies of the project
 
@@ -22,6 +26,7 @@ or
 ```
 yarn install
 ```
+---
 
 Start the project
 ```
@@ -32,6 +37,8 @@ or
 ```
 yarn start
 ```
+
+---
 
 Run the tests on the project
 
