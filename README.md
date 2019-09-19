@@ -50,3 +50,7 @@ or
 ```
 yarn test
 ```
+
+# Credits
+Thank you to amcharts for the beautiful icons
+https://www.amcharts.com/free-animated-svg-weather-icons/
